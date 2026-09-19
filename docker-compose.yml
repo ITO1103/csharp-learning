@@ -1,6 +1,6 @@
 services:
   csharp:
-    image: mcr.microsoft.com/dotnet/sdk:8.0
+    image: mcr.microsoft.com/dotnet/sdk:10.0
     container_name: csharp-learning
     working_dir: /workspace
     volumes:
