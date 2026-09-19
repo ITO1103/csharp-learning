@@ -1,0 +1,1 @@
+https://learn.microsoft.com/ja-jp/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp
